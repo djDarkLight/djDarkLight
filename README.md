@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @djDarkLight
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning django and react
+- 👀 A one man army out to re invent the wheel 
+- 🌱Tired of using very un user friendly so called Industry standard business software. So i am out to see if i can do better. I code for a fun.
+-   
+
 
 -
 
